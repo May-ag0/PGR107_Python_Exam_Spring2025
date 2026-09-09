@@ -10,9 +10,7 @@
 Dette repositoryet inneholder min besvarelse til avsluttende eksamen i 
 **PGR107 – Python Programming** ved Høyskolen Kristiania.
 
-Eksamen består av fire programmeringsoppgaver som tar for seg sentrale deler 
-av Python, blant annet kontrollflyt, funksjoner, filbehandling, datastrukturer 
-og objektorientert programmering.
+Besvarelsen består av fire separate programmeringsoppgaver som viser bruk av sentrale konsepter i Python, blant annet kontrollstrukturer, funksjoner, filbehandling, objektorientert programmering og håndtering av brukerinput.
 
 ### Oppgaver
 
@@ -21,8 +19,8 @@ Et ordgjette-spill der et tilfeldig ord leses fra en tekstfil. Spilleren gjetter
 én bokstav om gangen og forsøker å finne hele ordet før antall tillatte feil er brukt opp.
 
 **Oppgave 2 – Library Management System**  
-Et objektorientert biblioteksystem bygget med `Library`- og `Book`-klasser. 
-Programmet støtter blant annet registrering og fjerning av bøker, samt inn- og utlån.
+Et biblioteksystem bygget med `Library`- og `Book`-klasser. 
+Programmet støtter blant annet å legge til og fjerne bøker, samt inn- og utlån.
 
 **Oppgave 3 – Bank Account Management System**  
 Et menybasert banksystem bygget med `Menu`- og `BankAccount`-klasser. 
@@ -37,13 +35,15 @@ blant annet store og små bokstaver, mellomrom og tegnsetting.
 
 ## Sentrale konsepter
 
-- Objektorientert programmering med klasser og objekter
-- Funksjoner og modulær kode
-- Lister og andre datastrukturer
-- Filinnlesing
-- Løkker og betingelser
+- Python-syntaks og kontrollflyt
+- Funksjoner
+- Objektorientert programmering
+- Klasser og objekter
+- Lister
+- Filbehandling
 - Brukerinput og validering
 - Strengbehandling
+- Feilhåndtering med `try` / `except` 
 
 ---
 
