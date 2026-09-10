@@ -51,7 +51,4 @@ blant annet store og små bokstaver, mellomrom og tegnsetting.
 
 For å kjøre programmene lokalt må du ha **Python 3** installert.
 
-Klon repositoryet:
 
-```bash
-git clone https://github.com/May-ag0/PGR107_Python_Exam_Spring2025.git
